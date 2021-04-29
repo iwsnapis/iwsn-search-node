@@ -1,1 +1,1 @@
-# iwsn-search-node
+# IWSN Search Node.js Client Libraries
